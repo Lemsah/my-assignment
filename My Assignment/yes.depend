@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1629458151 source:c:\users\computer solution\documents\new folder\tutos\yes\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<conio.h>
+	<MMsystem.h>
+
